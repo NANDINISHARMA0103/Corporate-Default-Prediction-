@@ -1,0 +1,41 @@
+Company,Sector,Matched Peer,Agency,Rating Before,Rating After,Event Date,Financial Year Used,Debt_Equity,Interest_Coverage,ROA,ROE,Operating_Margin,Sales_Growth,OCF_Debt,Label
+Jet Airways,Aviation,IndiGo,ICRA,BBB-,BB+,4 Jun 2018,FY2017-18,-1.16,0.028,-6.13,10.6,0.1,8.05,0.202,1
+CG Power & Industrial Solutions,Electrical Equipment,ABB India,India Ratings,A, D,30 Aug 2019,FY2018-19,1.55,0.69,-4.88,-23.63,3.73,-0.41,0.25,1
+Amtek Auto,Auto Components,Maruti Suzuki India Ltd.,Brickwork,AA,D,7 Oct 2015,FY2015-16,1.78,1.19,-0.71,-2.27,25.03,-5.08,0.09,1
+Reliance Capital,Diversified NBFC,Bajaj Finance,CARE,BB,D,13 Sep 2019,FY2018-19,-48.64,0.68,-1.8,159.43,15.19,9.23,-0.18,1
+Reliance Communications,Telecom,Tata Communications,ICRA,BBB-,D,30 May 2017,FY2016-17,1.72,-1.5,-1.46,-4.91,-5.84,13.57,-0.008,1
+Videocon Industries,Consumer Electronics,Whirlpool India,CARE,BB,D,8 Jun 2016,FY2016-17,2.31,0.92,-0.15,-0.54,18.4,13.57,0.27,1
+Cox & Kings,Travel,Thomas Cook India,CARE,A1+,D,11 Jul 2019,FY2018-19,0.65,2.39,2.61,4.89,10.31,6.32,-0.18,1
+Yes Bank,Banking,IndusInd Bank,ICRA,BBB,D,6 Mar 2020,FY2018-19,12.5,0.9,0.45,6.36,60.05,46.16,-0.073,1
+Vodafone Idea,Telecom,Bharti Airtel,CRISIL,BB,B+,20 Feb 2020,FY2018-19,2.11,0.43,-6.36,-24.49,11.1,31.17,0.04,1
+Gitanjali Gems,Gems & Jewellery,Thangamayil Jewellery Ltd.,CARE,A,D,5 Jul 2013,FY2013-14,1.39,2.19,4.25,15.7,7.27,31.37,-0.003,1
+Sintex Industries,Plastics / Infrastructure,Astral Ltd,CARE,A-,D,12 Jun 2019,FY2018-19,1.35,1.67,0.18,0.49,11.55,13.38,0.18,1
+Lanco Infratech,Power & Infrastructure,NTPC,CARE,BBB-,D,25 Oct 2012,FY2012-13,1.17,1.3,0.59,3.22,7.6,48.14,0.94,1
+Suzlon Energy,Renewable Energy,Torrent Power,CARE,BB,B,3 Apr 2019,FY2018-19,-1.36,-0.02,-17.22,17.97,-0.47,-38.09,0.11,1
+Jain Irrigation Systems Ltd.,Irrigation Equipment & Plastic Pipes,Finolex Industries Ltd.,CARE,A-,D,1 Sep 2019,FY2018–19,0.31,2.22,2.86,4.97,15.47,4.28,-0.07,1
+ABG Shipyard,Shipbuilding,Cochin Shipyard,CARE,A-,D,30 Jun 2015,FY2014-15,-3.05,-2.12,-33.4,117.39,-5289.0,-91.26,-0.07,1
+Srei Infrastructure Finance,Infrastructure Finance / NBFC,REC Ltd,CARE,AA-,D,12 Oct 2020,FY2019-20,-9.98,-0.93,-25.3,230.87,-89.78,-44.38,0.02,1
+Era Infra Engineering,Construction,NCC Ltd,CARE,BBB,D,8 Oct 2013,FY2014-15,2.36,1.62,2.17,8.62,19.08,7.45,0.05,1
+Future Retail Ltd,Retail,Trent Ltd,CARE,A,D,3 Jan 2022,FY2020-21,2.08,2.09,0.16,0.79,10.33,-0.23,-0.21,1
+Reliance Home Finance Ltd,Housing Finance,Can Fin Homes,CARE,AA,D,26 Apr 2019,FY2018-19,8.52,1.08,0.37,3.66,71.25,18.82,-0.08,1
+Talwalkars Better Value Fitness Ltd,Consumer Services / Fitness,Britannia Industries Ltd.,ICRA,A+,B ,2 Aug 2019,FY2018-19,0.81,3.69,2.44,5.04,68.54,16.07,0.3,1
+InterGlobe Aviation (IndiGo),Aviation,Jet Airways,ICRA,AA-,AA-,4 Jun 2018,FY2017-18,0.35,7.34,10.61,31.68,13.16,23.9,1.59,0
+ABB India,Electrical Equipment,CG Power,India Ratings,AAA ,AAA ,30 Aug 2019,FY2018-19,0.002,7.74,5.63,12.75,6.97,9.79,12.75,0
+Maruti Suzuki India Ltd.,Automobile,Amtek Auto,CRISIL,AAA,AAA,7 Oct 2015,FY 2018–19,0.0032,138.07,11.92,16.26,12.17,4.91,44.07,0
+Bajaj Finance,NBFC,Reliance Capital,CRISIL,AAA,AAA,13 Sep 2019,FY2018-19,5.16,1.94,3.22,20.28,70.5,45.04,-0.29,0
+Tata Communications,Telecom,Reliance Communications,CARE,AAA,AAA,30 May 2017,FY2016-17,5.79,6.55,5.86,77.45,13.65,13.57,0.26,0
+Whirlpool India,Consumer Durables,Videocon Industries,CRISIL,AAA,AAA,8 Jun 2016,FY2015-16,0.0,415.27,10.98,21.27,10.32,6.32,0.58,0
+Thomas Cook India,Travel,Cox & Kings,CRISIL,AA-,AA-,11 Jul 2019,FY2018-19,0.005,2.05,0.93,1.54,1.76,18.37,12.61,0
+IndusInd Bank,Banking,Yes Bank,CRISIL,AA+,AA+,6 Mar 2020,FY2018-19,9.08,0.97,1.19,12.37,58.29,28.825,-0.03,0
+Bharti Airtel,Telecom,Vodafone Idea,CRISIL,AA+,AA+,20 Feb 2020,FY2018-19,1.76,2.43,0.15,0.57,31.89,-2.25,0.16,0
+Thangamayil Jewellery Ltd.,Paints ,Gitanjali Gems,CRISIL,AAA,AAA,5 Jul 2013,FY2012-13 ,0.8,2.33,3.2,9.35,3.73,13.57,0.58,0
+Astral Ltd,Building Materials,Sintex Industries,CRISIL,AA,AA,12 Jun 2019,FY2018-19,0.22,11.96,9.33,15.32,15.22,20.95,1.24,0
+NTPC,Power,Lanco Infratech,CRISIL,AAA,AAA,25 Oct 2012,FY2011-12,1.16,5.76,4.31,10.96,26.32,13.57,0.18,0
+Torrent Power,Utilities,Suzlon Energy,CRISIL,AA+,AA+,3 Apr 2019,FY2018-19,1.08,3.58,3.66,10.02,24.47,14.24,0.25,0
+Finolex Industries Ltd.,PVC Pipes & Fittings,Jain Irrigation Systems Ltd.,CRISIL,AA,AA,1 Sep 2019,FY2018–19,0.035,49.25,11.02,14.26,19.55,12.91,4.37,0
+Cochin Shipyard,Shipbuilding,ABG Shipyard,CARE,AAA,AAA,30 Jun 2015,FY2015-16,0.038,39.14,7.22,12.18,19.73,13.57,5.13,0
+REC Ltd,Infrastructure Finance,SREI Infrastructure Finance,CARE,AAA,AAA,12 Oct 2020,FY2020-21 ,7.53,1.5,2.09,19.14,90.74,18.75,-0.13,0
+NCC Ltd,Construction,Era Infra Engineering,CARE,AA,AA,8 Oct 2013,FY2012-13,0.75,1.32,0.29,0.92,7.5,13.57,0.12,0
+Trent Ltd,Retail,Future Retail,CRISIL,AA+,AA+,3 Jan 2022,FY2019-20,0.37,10.61,14.66,25.0,12.79,17.15,1.04,0
+Can Fin Homes,Housing Finance,Reliance Home Finance,ICRA,AAA,AAA,26 Apr 2019,FY2018-19,9.48,1.4,1.58,16.64,47.68,13.75,-0.14,0
+Britannia Industries Ltd.,FMCG,Talwalkars Better Value Fitness,CRISIL,AAA,AAA,2 Aug 2019,FY2017-18 ,0.31,1082.35,12.46,26.96,10.57,19.79,2.89,0
